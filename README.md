@@ -1,6 +1,7 @@
 # FirefoxCSS-Plus
 
-<img src="https://i.imgur.com/KvCdPs4.mp4"/>
+https://imgur.com/a/506YWAS
+
 
 FirefoxCSS+ is based on h4wwk3ye release (https://github.com/h4wwk3ye/firefoxCSS), MaterialFox (https://github.com/muckSponge/MaterialFox) 
 and FlyingFox (https://github.com/akshat46/FlyingFox).
